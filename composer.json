@@ -1,0 +1,20 @@
+{
+    "name": "sq1994/pay",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sq1994\\Pay\\": "src/",
+            "Sq1994\\Pay\\Alipay\\": "src/Alipay/",
+            "Sq1994\\Pay\\Utils\\": "src/Utils/",
+            "Sq1994\\Pay\\Wechatpay\\": "src/Wechatpay/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhengshiquan",
+            "email": "851067354@qq.com"
+        }
+    ],
+    "require": {}
+}
